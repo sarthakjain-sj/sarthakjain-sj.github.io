@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarthakjain-sj.github.io/sitemap.xml
